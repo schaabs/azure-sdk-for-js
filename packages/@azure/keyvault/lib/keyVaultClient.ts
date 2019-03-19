@@ -7,6 +7,7 @@
  * Changes may cause incorrect behavior and will be lost if the code is
  * regenerated.
  */
+/// <reference lib="esnext.asynciterable" />
 
 import * as msRest from "@azure/ms-rest-js";
 import * as msRestAzure from "@azure/ms-rest-azure-js";
